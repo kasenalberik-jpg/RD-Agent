@@ -21,6 +21,8 @@ To address these key challenges and achieve industrial value, a series of resear
      - Idea proposal: Explore new ideas or refine existing ones
    * - :doc:`Development <dev>`
      - Ability to realize ideas: Implement and execute ideas
+   * - :doc:`Strategy notes <strategy>`
+     - Research notes on the strategy abstractions used by RD-Agent
 
 
 
@@ -32,3 +34,4 @@ To address these key challenges and achieve industrial value, a series of resear
 
    benchmark
    dev
+   strategy
